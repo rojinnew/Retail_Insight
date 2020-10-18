@@ -6,7 +6,7 @@
 
 Refrences:
 
-ihttps://www.kaggle.com/c/demand-forecasting-kernels-only/
+https://www.kaggle.com/c/demand-forecasting-kernels-only/
 
 https://towardsdatascience.com/5-machine-learning-techniques-for-sales-forecasting-598e4984b109
 
