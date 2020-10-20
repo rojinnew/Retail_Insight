@@ -1,4 +1,4 @@
-Hackgt 7
+HackGT 7
 
 - First, install the required libraries based on the list provided in requirement.txt
  
