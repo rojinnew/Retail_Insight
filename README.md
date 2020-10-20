@@ -1,3 +1,5 @@
+Hackgt 7
+
 - First, install the required libraries based on the list provided in requirement.txt
  
 - After installing all required libraries, run sale_prediction_each_store.py. This prints a report from predicted sales for various items and stores. The corresponding plots can be found in plot_output folder. 
