@@ -71,7 +71,7 @@ for item_id in range(1, 51):
       series = data_diff.copy()
       for i in range(1,12+1):
         col = 'lag_' + str(i)
-      series[col] = series['sales_diff'].shift(i)    
+        series[col] = series['sales_diff'].shift(i)    
       series = series.dropna().reset_index(drop=True)
       series.to_csv('model_data.csv', index=False)
       series = series.drop(['sales','date'],axis=1)
